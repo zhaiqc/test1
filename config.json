@@ -3,7 +3,7 @@
     "panels": {
         "mihomo": [
             {
-                "url": "http://speed.1l1l.de",
+                "url": "https://speed.1l1l.de",
                 "description": "主API接口"
             },
             {
@@ -141,4 +141,3 @@
         ]
     }
 }
-
